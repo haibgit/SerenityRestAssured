@@ -1,7 +1,6 @@
 package com.zygiel.stepdefs;
 
-import cucumber.api.java.en.Then;
-import cucumber.api.java.en.When;
+import io.cucumber.java.en.*;
 import net.serenitybdd.rest.SerenityRest;
 import org.apache.http.HttpStatus;
 import com.zygiel.PostcodesEndpoints;
